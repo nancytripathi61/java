@@ -7,6 +7,8 @@ public class dowhileloop {
         {
             System.out.println(i);
             i++;
+
+            // new change
         }
         while(i<=5);
     }
